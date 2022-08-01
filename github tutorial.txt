@@ -20,3 +20,5 @@ add connection to the github
 
 push to the github
 6)git push -u origin main
+
+others:https://gist.github.com/gwenf/19e5748a5391929e8e938a22c8a4b3f2
