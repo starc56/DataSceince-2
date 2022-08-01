@@ -1,0 +1,22 @@
+first initialize using:
+1)git init
+
+then copy the files from other folders to the initialized folder
+
+then add the files
+
+2)git add --all  or git add . or git add $filename
+
+then commit:
+3)git commit -m "my first commit"
+
+
+4)git branch M -main
+
+
+add connection to the github
+5) git remote add origin https://github.com/starc56/DataSceince-2.git
+
+
+push to the github
+6)git push -u origin main
