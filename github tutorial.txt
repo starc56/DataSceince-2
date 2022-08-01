@@ -14,7 +14,7 @@ then commit:
 4)git branch M -main
 
 
-add connection to the github
+add connection to the Github pages
 5) git remote add origin https://github.com/starc56/DataSceince-2.git
 
 
